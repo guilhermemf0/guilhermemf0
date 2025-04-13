@@ -4,7 +4,7 @@
 ---
 
 ### 👨💻 Perfil Profissional  
-Estudante de **Ciência da Computação** na **[Universidade Estadual do Norte do Paraná](https://uenp.edu.br/)**, com ênfase em desenvolvimento de software. Comprometido com o aprendizado contínuo de tecnologias modernas e melhores práticas de programação.
+Estudante de **Ciência da Computação** na **[Universidade Estadual do Norte do Paraná](https://uenp.edu.br/)**, com ênfase em desenvolvimento de software.
 
 ---
 
