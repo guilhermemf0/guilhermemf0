@@ -13,6 +13,7 @@ Estudante de **Ciência da Computação** na **UENP**, sou um desenvolvedor proa
 | Projeto | Descrição | Tecnologias Usadas |
 |---|---|---|
 | **REpedia** | **Website desenvolvido em equipe utilizando o framework Django, onde fui responsável pela construção do front-end interativo e responsivo.**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **LAGZero** | App (em desenvolvimento) com Website para download do aplicativo desktop. O site foi construído com HTML, CSS e JS, enquanto o app está sendo desenvolvido em C++ com o framework Qt. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) |
 | **Jornada do Héroi** | **Implementação de um jogo em C++ utilizando conceitos de Programação Orientada a Objetos, classes e ponteiros para a lógica principal.** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 
 _[➡️ Veja todos os meus repositórios aqui](https://github.com/guilhermemf0?tab=repositories)_
@@ -52,7 +53,7 @@ _[➡️ Veja todos os meus repositórios aqui](https://github.com/guilhermemf0?
 
 ### 📬 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-motta-977b94355/)
-[![Email](https://img.shields.io/badge/Email-gui.mottafranco@gmail.com-D14836?style=flat&logo=gmail)](mailto:gui.mottafranco@gmail.com)
+[![Email](https://img.shields.io/badge/Email-guilherme.mottafranco@gmail.com-D14836?style=flat&logo=gmail)](mailto:guilherme.mottafranco@gmail.com)
 **GitHub:** [guilhermemf0](https://github.com/guilhermemf0)
 **Acadêmico:** guilherme.franco@discente.uenp.edu.br
 
