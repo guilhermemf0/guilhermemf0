@@ -52,7 +52,7 @@ _[➡️ Veja todos os meus repositórios aqui](https://github.com/guilhermemf0?
 ---
 
 ### 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-motta-977b94355/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilhermemottafranco)
 [![Email](https://img.shields.io/badge/Email-guilherme.mottafranco@gmail.com-D14836?style=flat&logo=gmail)](mailto:guilherme.mottafranco@gmail.com)
 **GitHub:** [guilhermemf0](https://github.com/guilhermemf0)
 **Acadêmico:** guilherme.franco@discente.uenp.edu.br
