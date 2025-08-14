@@ -31,7 +31,7 @@ _[➡️ Veja todos os meus repositórios aqui](https://github.com/guilhermemf0?
 **Tenho conhecimento em:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Django](https.img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
