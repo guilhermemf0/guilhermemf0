@@ -1,49 +1,68 @@
 # Guilherme Motta Franco
-#### Bacharelado em Ciência da Computação | UENP
+#### Computer Science Undergraduate | UENP
 
 ---
 
-### 👨💻 Perfil Profissional
-Estudante de **Ciência da Computação** na **UENP**, sou um desenvolvedor proativo e apaixonado por resolver problemas. Tenho experiência prática no desenvolvimento de sites e aplicações com JavaScript e Python (Django), e uma base sólida em C/C++ obtida academicamente e através de estudos independentes. Busco uma oportunidade de estágio para aplicar minhas habilidades, colaborar com equipes experientes e crescer profissionalmente.
+### 👨💻 Professional Profile
+**Computer Science** student at **UENP** and software developer passionate about solving complex problems. During my first year, I expanded my focus to Full Stack development and high-performance Desktop applications.
+
+I have hands-on experience designing complete architectures, from relational databases and APIs with **Python (Django)** to modern interfaces with **React** and robust desktop applications in **C++ (Qt)** and **C#**. I am looking for internship opportunities to apply this technical versatility in projects that demand innovation and technical rigor.
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-| Projeto | Descrição | Tecnologias Usadas |
+| Project | Description | Technologies Used |
 |---|---|---|
-| **REpedia** | **Website desenvolvido em equipe utilizando o framework Django e Bootstrap, onde fui responsável pela construção do front-end interativo e responsivo.**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) |
-| **LAGZero** | Projeto acadêmico de App (em desenvolvimento) com Website para download do aplicativo desktop. O site foi construído com HTML, CSS e JS, enquanto o app está sendo desenvolvido em C++ com o framework Qt. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) |
-| **Jornada do Héroi** | **Implementação de um jogo em C++ utilizando conceitos de Programação Orientada a Objetos, classes e ponteiros para a lógica principal.** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Gametrax** | **Social Platform for Gamers (Full Stack).** A complete social network with multi-platform synchronization (Steam, Xbox, etc.). <br><br>⚙️ **Advanced Backend:** REST API built with **Django REST Framework** and **Djoser** (JWT/Social Auth). Implements **WebSockets (Django Channels + Daphne)** for real-time features. Uses **Whitenoise** for static files, **Cryptography** for data security, running on **Gunicorn/Uvicorn** servers. <br>🔗 [**Visit Website**](https://gametrax-henna.vercel.app/) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Channels](https://img.shields.io/badge/Channels-Ws-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **LAGZero** | **System Optimizer & Monitoring Tool.** Desktop App with an integrated web portal. <br><br>🛠️ **Engineering:** Interface in **C++ (Qt)** and sensor module rewritten in **C#**, using a hybrid approach (**LibreHardwareMonitor + Native Windows API**) for maximum hardware coverage. Integrates **Python** for mathematical calculations (integrals/derivatives) and Overlay via **RTSS**. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Windows API](https://img.shields.io/badge/WinAPI-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Hero's Journey** | **C++ Game Engine (Study).** Implementation of a game focused on in-depth study of performance and software architecture, utilizing advanced Object-Oriented Programming concepts, dynamic memory allocation, and pointers for core logic. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 
-_[➡️ Veja todos os meus repositórios aqui](https://github.com/guilhermemf0?tab=repositories)_
+_[➡️ View all my repositories here](https://github.com/guilhermemf0?tab=repositories)_
 
 ---
 
-### 🛠️ Tecnologias
-**Linguagens que mais utilizo:**
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Tenho conhecimento em:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**Database & Data Science:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Ferramentas de Desenvolvimento:**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**DevOps & Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📊 Atividade no GitHub
+### 🏆 Certifications & Events
+
+**Events & Hackathons**
+* **GeniusCon 2025:** Participated in the innovation, technology, and entrepreneurship fair.
+* **GeniusFight & GeniusFinder:** Pitched the "LAG ZERO" startup.
+* **Startup Day:** Attended the startup ecosystem event.
+
+**Courses & Specializations**
+* **Alura:** Dev Immersion 9th Ed., Dev Immersion, and AI Immersion.
+* **FGV Online:** Introduction to Git and GitHub.
+* **Santander:** Python, ChatGPT Fundamentals.
+* **freeCodeCamp:** Responsive Web Design, JavaScript Algorithms and Data Structures.
+* **Languages:** English Course - Fala Paraná (60h).
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermemf0&show_icons=true&theme=tokyonight&hide_title=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemf0&layout=compact&theme=tokyonight"/>
@@ -51,19 +70,19 @@ _[➡️ Veja todos os meus repositórios aqui](https://github.com/guilhermemf0?
 
 ---
 
-### 📬 Contato
+### 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilhermemottafranco)
 [![Email](https://img.shields.io/badge/Email-guilherme.mottafranco@gmail.com-D14836?style=flat&logo=gmail)](mailto:guilherme.mottafranco@gmail.com)
 **GitHub:** [guilhermemf0](https://github.com/guilhermemf0)
-**Acadêmico:** guilherme.franco@discente.uenp.edu.br
+**Academic:** guilherme.franco@discente.uenp.edu.br
 
 ---
 
-### 🎓 Formação Acadêmica
+### 🎓 Education
 **Universidade Estadual do Norte do Paraná (UENP)**
-- Bacharelado em Ciência da Computação
-- Início: 2025 (1º ano)
-- Localização: Bandeirantes - PR
+- B.Sc. in Computer Science
+- Start: 2025
+- Location: Bandeirantes - PR, Brazil
 
 ---
 
