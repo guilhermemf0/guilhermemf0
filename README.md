@@ -62,14 +62,6 @@ _[➡️ View all my repositories here](https://github.com/guilhermemf0?tab=repo
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermemf0&show_icons=true&theme=tokyonight&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemf0&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilhermemottafranco)
 [![Email](https://img.shields.io/badge/Email-guilherme.mottafranco@gmail.com-D14836?style=flat&logo=gmail)](mailto:guilherme.mottafranco@gmail.com)
